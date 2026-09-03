@@ -3,3 +3,5 @@ data
 best_model.pth
 best_model
 play.ipynb
+outputs/
+multirun/
